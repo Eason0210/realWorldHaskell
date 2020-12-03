@@ -1,0 +1,4 @@
+input some string here
+and test
+some thing
+ 
